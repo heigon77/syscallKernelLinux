@@ -10457,7 +10457,7 @@ SYSCALL_DEFINE2(setuserweight, int uid, int weight)
 		return 0;
 	}
 
-	return 1;
+	return -1;
 
 }
 
@@ -10470,4 +10470,5 @@ SYSCALL_DEFINE1(getuserweight, int uid)
 			return load[i].weight
 		}
 	}
+	return -1;
 }

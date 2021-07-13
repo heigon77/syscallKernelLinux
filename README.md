@@ -92,4 +92,4 @@ Infelizmente por falta de contato com a ferramente virtme tivemos dificuldade em
 Apesar de não conseguirmos realizar os testes investigamos sua implementação e uso e consideramo que seu uso seria viável, o vídeo trará mais detalhes, mas resumidamente, imaginamos que o motivo para isso está na função _set_load_weight(p, true);_.
 
 ### Link para o vídeo
-[Vídeo no google drive]("Neste link")
+[Vídeo no google drive](https://drive.google.com/file/d/1reFBRmsSHFDSFGHEPQAN3g0Qp0A6JfE0/view?usp=sharing)

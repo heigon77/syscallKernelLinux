@@ -85,11 +85,11 @@ SYSCALL_DEFINE1(getuserweight, int uid)
 ```
 ### Dificuldades
 
-    Infelizmente por falta de contato com a ferramente virtme tivemos dificuldade em realizar funções desejadas, como rodar códigos externos ao ambiente virtual e adicionar diferentes usuários para validar o uso de cpu atavés do comando _top_ ao rodar o arquivo [weightTest.c](weightTest.c). Sendo assim não testamos as implementações, porém o kernel compilou.
+Infelizmente por falta de contato com a ferramente virtme tivemos dificuldade em realizar funções desejadas, como rodar códigos externos ao ambiente virtual e adicionar diferentes usuários para validar o uso de cpu atavés do comando _top_ ao rodar o arquivo [weightTest.c](weightTest.c). Sendo assim não testamos as implementações, porém o kernel compilou.
 
 ### Análise do sched_setparam e sched_getparam
 
-    Apesar de não conseguirmos realizar os testes investigamos sua implementação e uso e consideramo que seu uso seria viável, o vídeo trará mais detalhes, mas resumidamente, imaginamos que o motivo para isso está na função _set_load_weight(p, true);_.
+Apesar de não conseguirmos realizar os testes investigamos sua implementação e uso e consideramo que seu uso seria viável, o vídeo trará mais detalhes, mas resumidamente, imaginamos que o motivo para isso está na função _set_load_weight(p, true);_.
 
 ### Link para o vídeo
 [Vídeo no google drive]("Neste link")

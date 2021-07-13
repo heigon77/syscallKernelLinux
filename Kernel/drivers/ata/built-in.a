@@ -1,0 +1,35 @@
+!<thin>
+//                                              232       `
+libata-core.o/
+libata-scsi.o/
+libata-eh.o/
+libata-transport.o/
+libata-trace.o/
+libata-sata.o/
+libata-sff.o/
+libata-pmp.o/
+libata-acpi.o/
+libata-pata-timings.o/
+ahci.o/
+libahci.o/
+ata_piix.o/
+pata_amd.o/
+pata_oldpiix.o/
+pata_sch.o/
+
+/0              0           0     0     644     204976    `
+/15             0           0     0     644     68488     `
+/30             0           0     0     644     81080     `
+/43             0           0     0     644     25632     `
+/63             0           0     0     644     8360      `
+/79             0           0     0     644     49032     `
+/94             0           0     0     644     94176     `
+/108            0           0     0     644     22480     `
+/122            0           0     0     644     24632     `
+/137            0           0     0     644     7048      `
+/160            0           0     0     644     50896     `
+/168            0           0     0     644     77592     `
+/179            0           0     0     644     43472     `
+/191            0           0     0     644     25384     `
+/203            0           0     0     644     11264     `
+/219            0           0     0     644     9024      `

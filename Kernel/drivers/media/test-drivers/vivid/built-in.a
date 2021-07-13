@@ -1,0 +1,44 @@
+!<thin>
+//                                              372       `
+vivid-core.o/
+vivid-ctrls.o/
+vivid-vid-common.o/
+vivid-vbi-gen.o/
+vivid-vid-cap.o/
+vivid-vid-out.o/
+vivid-kthread-cap.o/
+vivid-kthread-out.o/
+vivid-radio-rx.o/
+vivid-radio-tx.o/
+vivid-radio-common.o/
+vivid-rds-gen.o/
+vivid-sdr-cap.o/
+vivid-vbi-cap.o/
+vivid-vbi-out.o/
+vivid-osd.o/
+vivid-meta-cap.o/
+vivid-meta-out.o/
+vivid-kthread-touch.o/
+vivid-touch-cap.o/
+vivid-cec.o/
+/0              0           0     0     644     85688     `
+/14             0           0     0     644     54968     `
+/29             0           0     0     644     13144     `
+/49             0           0     0     644     6672      `
+/66             0           0     0     644     51616     `
+/83             0           0     0     644     34624     `
+/100            0           0     0     644     25776     `
+/121            0           0     0     644     12192     `
+/142            0           0     0     644     6512      `
+/160            0           0     0     644     4256      `
+/178            0           0     0     644     4864      `
+/200            0           0     0     644     4176      `
+/217            0           0     0     644     16856     `
+/234            0           0     0     644     12744     `
+/251            0           0     0     644     9752      `
+/268            0           0     0     644     9664      `
+/281            0           0     0     644     9696      `
+/299            0           0     0     644     8920      `
+/317            0           0     0     644     8312      `
+/340            0           0     0     644     11360     `
+/359            0           0     0     644     10232     `

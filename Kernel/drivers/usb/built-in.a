@@ -1,0 +1,104 @@
+!<thin>
+//                                              848       `
+common/common.o/
+common/debug.o/
+core/usb.o/
+core/hub.o/
+core/hcd.o/
+core/urb.o/
+core/message.o/
+core/driver.o/
+core/config.o/
+core/file.o/
+core/buffer.o/
+core/sysfs.o/
+core/endpoint.o/
+core/devio.o/
+core/notify.o/
+core/generic.o/
+core/quirks.o/
+core/devices.o/
+core/phy.o/
+core/port.o/
+core/hcd-pci.o/
+core/usb-acpi.o/
+mon/mon_main.o/
+mon/mon_stat.o/
+mon/mon_text.o/
+mon/mon_bin.o/
+host/pci-quirks.o/
+host/ehci-hcd.o/
+host/ehci-pci.o/
+host/ohci-hcd.o/
+host/ohci-pci.o/
+host/uhci-hcd.o/
+host/xhci.o/
+host/xhci-mem.o/
+host/xhci-ext-caps.o/
+host/xhci-ring.o/
+host/xhci-hub.o/
+host/xhci-dbg.o/
+host/xhci-trace.o/
+host/xhci-debugfs.o/
+host/xhci-pci.o/
+class/usblp.o/
+storage/scsiglue.o/
+storage/protocol.o/
+storage/transport.o/
+storage/usb.o/
+storage/initializers.o/
+storage/sierra_ms.o/
+storage/option_ms.o/
+storage/usual-tables.o/
+early/ehci-dbgp.o/
+/0              0           0     0     644     13176     `
+/17             0           0     0     644     8312      `
+/33             0           0     0     644     34272     `
+/45             0           0     0     644     112592    `
+/57             0           0     0     644     71576     `
+/69             0           0     0     644     31008     `
+/81             0           0     0     644     58624     `
+/97             0           0     0     644     47232     `
+/112            0           0     0     644     24168     `
+/127            0           0     0     644     10624     `
+/140            0           0     0     644     4048      `
+/155            0           0     0     644     44960     `
+/169            0           0     0     644     7000      `
+/186            0           0     0     644     69400     `
+/200            0           0     0     644     4144      `
+/215            0           0     0     644     7688      `
+/231            0           0     0     644     12208     `
+/246            0           0     0     644     11856     `
+/262            0           0     0     644     8152      `
+/274            0           0     0     644     18216     `
+/287            0           0     0     644     18104     `
+/303            0           0     0     644     7232      `
+/320            0           0     0     644     15008     `
+/336            0           0     0     644     3080      `
+/352            0           0     0     644     19896     `
+/368            0           0     0     644     26328     `
+/383            0           0     0     644     31512     `
+/402            0           0     0     644     93432     `
+/419            0           0     0     644     12160     `
+/436            0           0     0     644     68224     `
+/453            0           0     0     644     10432     `
+/470            0           0     0     644     50064     `
+/487            0           0     0     644     120160    `
+/500            0           0     0     644     54808     `
+/517            0           0     0     644     5800      `
+/539            0           0     0     644     84792     `
+/557            0           0     0     644     27936     `
+/574            0           0     0     644     3600      `
+/591            0           0     0     644     149128    `
+/610            0           0     0     644     46264     `
+/631            0           0     0     644     17048     `
+/648            0           0     0     644     33008     `
+/663            0           0     0     644     16208     `
+/683            0           0     0     644     6008      `
+/703            0           0     0     644     25104     `
+/724            0           0     0     644     61776     `
+/739            0           0     0     644     2744      `
+/763            0           0     0     644     5304      `
+/784            0           0     0     644     3824      `
+/805            0           0     0     644     12096     `
+/829            0           0     0     644     14280     `

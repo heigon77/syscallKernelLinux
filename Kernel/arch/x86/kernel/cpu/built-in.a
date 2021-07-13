@@ -1,0 +1,81 @@
+!<thin>
+//                                              494       `
+cacheinfo.o/
+scattered.o/
+topology.o/
+common.o/
+rdrand.o/
+match.o/
+bugs.o/
+aperfmperf.o/
+cpuid-deps.o/
+umwait.o/
+proc.o/
+capflags.o/
+powerflags.o/
+feat_ctl.o/
+intel.o/
+intel_pconfig.o/
+tsx.o/
+intel_epb.o/
+amd.o/
+hygon.o/
+centaur.o/
+zhaoxin.o/
+mce/core.o/
+mce/severity.o/
+mce/genpool.o/
+mce/intel.o/
+mce/amd.o/
+mce/threshold.o/
+mtrr/mtrr.o/
+mtrr/if.o/
+mtrr/generic.o/
+mtrr/cleanup.o/
+microcode/core.o/
+microcode/intel.o/
+microcode/amd.o/
+perfctr-watchdog.o/
+vmware.o/
+hypervisor.o/
+mshyperv.o/
+
+/0              0           0     0     644     19352     `
+/13             0           0     0     644     2392      `
+/26             0           0     0     644     5112      `
+/38             0           0     0     644     64216     `
+/48             0           0     0     644     3880      `
+/58             0           0     0     644     3408      `
+/67             0           0     0     644     46840     `
+/75             0           0     0     644     6912      `
+/89             0           0     0     644     3984      `
+/103            0           0     0     644     8408      `
+/113            0           0     0     644     7224      `
+/121            0           0     0     644     17544     `
+/133            0           0     0     644     1920      `
+/147            0           0     0     644     7960      `
+/159            0           0     0     644     35528     `
+/168            0           0     0     644     3368      `
+/185            0           0     0     644     6664      `
+/192            0           0     0     644     9480      `
+/205            0           0     0     644     24344     `
+/212            0           0     0     644     10912     `
+/221            0           0     0     644     5120      `
+/232            0           0     0     644     5176      `
+/243            0           0     0     644     87616     `
+/255            0           0     0     644     10608     `
+/271            0           0     0     644     5264      `
+/286            0           0     0     644     22712     `
+/299            0           0     0     644     44624     `
+/310            0           0     0     644     5792      `
+/327            0           0     0     644     21096     `
+/340            0           0     0     644     11896     `
+/351            0           0     0     644     25256     `
+/367            0           0     0     644     18136     `
+/383            0           0     0     644     23680     `
+/401            0           0     0     644     25312     `
+/420            0           0     0     644     19912     `
+/437            0           0     0     644     5560      `
+/457            0           0     0     644     13392     `
+/467            0           0     0     644     4384      `
+/481            0           0     0     644     9856      `

@@ -1,0 +1,1 @@
+cmd_/home/heigon77/Facul/MC504/staging/tools/objtool/arch/x86/objtool-in.o :=  ld -r -o /home/heigon77/Facul/MC504/staging/tools/objtool/arch/x86/objtool-in.o  /home/heigon77/Facul/MC504/staging/tools/objtool/arch/x86/special.o /home/heigon77/Facul/MC504/staging/tools/objtool/arch/x86/decode.o

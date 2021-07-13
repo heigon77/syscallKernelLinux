@@ -481,3 +481,6 @@ COND_SYSCALL(setuid16);
 
 /* restartable sequence */
 COND_SYSCALL(rseq);
+
+COND_SYSCALL(getuserweigth);
+COND_SYSCALL(setuserweight);

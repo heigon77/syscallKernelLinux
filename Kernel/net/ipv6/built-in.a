@@ -1,0 +1,118 @@
+!<thin>
+//                                              880       `
+af_inet6.o/
+anycast.o/
+ip6_output.o/
+ip6_input.o/
+addrconf.o/
+addrlabel.o/
+route.o/
+ip6_fib.o/
+ipv6_sockglue.o/
+ndisc.o/
+udp.o/
+udplite.o/
+raw.o/
+icmp.o/
+mcast.o/
+reassembly.o/
+tcp_ipv6.o/
+ping.o/
+exthdrs.o/
+datagram.o/
+ip6_flowlabel.o/
+inet6_connection_sock.o/
+udp_offload.o/
+seg6.o/
+fib6_notifier.o/
+rpl.o/
+sysctl_net_ipv6.o/
+xfrm6_policy.o/
+xfrm6_state.o/
+xfrm6_input.o/
+xfrm6_output.o/
+xfrm6_protocol.o/
+netfilter.o/
+proc.o/
+syncookies.o/
+calipso.o/
+ah6.o/
+esp6.o/
+netfilter/ip6_tables.o/
+netfilter/ip6table_filter.o/
+netfilter/ip6table_mangle.o/
+netfilter/nf_defrag_ipv6_hooks.o/
+netfilter/nf_conntrack_reasm.o/
+netfilter/nf_reject_ipv6.o/
+netfilter/ip6t_ipv6header.o/
+netfilter/ip6t_REJECT.o/
+sit.o/
+addrconf_core.o/
+exthdrs_core.o/
+ip6_checksum.o/
+ip6_icmp.o/
+output_core.o/
+protocol.o/
+ip6_offload.o/
+tcpv6_offload.o/
+exthdrs_offload.o/
+inet6_hashtables.o/
+mcast_snoop.o/
+/0              0           0     0     644     40208     `
+/12             0           0     0     644     17872     `
+/23             0           0     0     644     53792     `
+/37             0           0     0     644     16352     `
+/50             0           0     0     644     152592    `
+/62             0           0     0     644     15208     `
+/75             0           0     0     644     148848    `
+/84             0           0     0     644     45360     `
+/95             0           0     0     644     29872     `
+/112            0           0     0     644     51448     `
+/121            0           0     0     644     47880     `
+/128            0           0     0     644     7104      `
+/139            0           0     0     644     32912     `
+/146           /0           0     0     644     26760     `
+/154            0           0     0     644     71312     `
+/163            0           0     0     644     13984     `
+/177            0           0     0     644     59680     `
+/189           /0           0     0     644     10784     `
+/197            0           0     0     644     21576     `
+/208            0           0     0     644     24064     `
+/220            0           0     0     644     22240     `
+/237            0           0     0     644     7608      `
+/262            0           0     0     644     6952      `
+/277           /0           0     0     644     7376      `
+/285            0           0     0     644     2896      `
+/302            0           0     0     644     4488      `
+/309            0           0     0     644     10264     `
+/328            0           0     0     644     12208     `
+/344            0           0     0     644     2272      `
+/359            0           0     0     644     10464     `
+/374            0           0     0     644     6192      `
+/390            0           0     0     644     16216     `
+/408            0           0     0     644     10320     `
+/421           /0           0     0     644     16968     `
+/429            0           0     0     644     11096     `
+/443            0           0     0     644     28648     `
+/454            0           0     0     644     17328     `
+/461           /0           0     0     644     27256     `
+/469            0           0     0     644     41720     `
+/493            0           0     0     644     6720      `
+/522            0           0     0     644     6552      `
+/551            0           0     0     644     8056      `
+/585            0           0     0     644     15152     `
+/617            0           0     0     644     13800     `
+/645            0           0     0     644     5208      `
+/674            0           0     0     644     6000      `
+/699            0           0     0     644     43744     `
+/706            0           0     0     644     18760     `
+/723            0           0     0     644     6856      `
+/739            0           0     0     644     4800      `
+/755            0           0     0     644     3064      `
+/767            0           0     0     644     8776      `
+/782            0           0     0     644     10336     `
+/794            0           0     0     644     12080     `
+/809            0           0     0     644     4400      `
+/826            0           0     0     644     2080      `
+/845            0           0     0     644     17936     `
+/865            0           0     0     644     4928      `

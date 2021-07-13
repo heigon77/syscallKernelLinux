@@ -10433,3 +10433,41 @@ void call_trace_sched_update_nr_running(struct rq *rq, int count)
 {
         trace_sched_update_nr_running_tp(rq, count);
 }
+
+
+
+struct load_weight load[16];
+count = 0;
+
+SYSCALL_DEFINE2(setuserweight, int uid, int weight)
+{
+	for (size_t i = 0; i < count; i++)
+	{
+		if(load[i].inv_weight == uid)
+		{
+			load[i].weight = weight;
+			return 0;
+		}
+	}
+
+	if(0<= count <16)
+	{
+		load[count].weight = weight;
+		load[count].inv_weight = uid;
+		return 0;
+	}
+
+	return 1;
+
+}
+
+SYSCALL_DEFINE1(getuserweight, int uid)
+{
+	for (size_t i = 0; i < count; i++)
+	{
+		if(load[i].inv_weight == uid)
+		{
+			return load[i].weight
+		}
+	}
+}
